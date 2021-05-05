@@ -11,13 +11,6 @@ header {
 	font-size:20px;
 	color: white;
 }
-
-/*Canvas style*/
-#myCanvas{
-    height: 300px;
-    width: 100%;
-    border: 1px solid #d3d3d3;
-}
 /*Navigation dropdown menu*/
 nav{
     background-color: #333;
